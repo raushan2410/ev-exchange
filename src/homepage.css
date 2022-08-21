@@ -1,0 +1,14 @@
+.head-text {
+    position: relative;
+ }
+ .text-on-image {
+   position: absolute;
+  left: 4%;
+  top: 15%;
+ }
+ body {
+  overflow-x: hidden !important;
+ }
+
+
+ 
